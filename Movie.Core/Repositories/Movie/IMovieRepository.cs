@@ -1,5 +1,4 @@
-﻿using Movie.Core.Common.Enum;
-using Movie.Core.DTOs.ResponseDtos;
+﻿using Movie.Core.DTOs.ResponseDtos;
 using Movie.Core.Entities;
 using Movie.Core.Entities.Configuration;
 using Movie.Core.Entities.Movie;

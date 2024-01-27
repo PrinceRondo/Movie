@@ -1,5 +1,4 @@
-﻿using Movie.Core.Common.Enum;
-using Movie.Core.Entities;
+﻿using Movie.Core.Entities;
 using Movie.Core.Entities.Configuration;
 using System;
 using System.Collections.Generic;
